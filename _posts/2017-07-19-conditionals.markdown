@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Space Invaders
+title:  space invaders
 date: 2017-07-19 12:00:00
-description: Basic Space Invaders Game
+description: basic space invaders game
 category: ASGE
 published: true
 tags:
