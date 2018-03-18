@@ -1,0 +1,9 @@
+layout: post
+title: conditional loops
+date: 2017-07-19 12:00:00
+description: what are the basic conditional loops?
+category: newbie
+published: true
+tags:
+ - general noise
+ - entertainment software development
