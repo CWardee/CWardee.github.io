@@ -18,7 +18,7 @@ space invaders.exe is a simple recreation of space invaders created using asge
 
 <div class="owl-carousel owl-theme">
 <a href="{{ site.baseurl }}/img/space_invader1.png" target="_blank"><img src="{{ site.baseurl }}/img/space_invader1.png" /></a>
-<a href="{{ site.baseurl }}/img/space_invader2.png" target="_blank"><img src="{{ site.baseurl }}/img/space_invader2.png" /></a>
+<a href="{{ site.baseurl }}/img/spaceinvader2.png" target="_blank"><img src="{{ site.baseurl }}/img/spaceinvader2.png" /></a>
 </div>
 
 <div class="col three caption">
