@@ -2,7 +2,7 @@
 layout: project
 title: pong
 description: pong
-img: ../img/pong_logo.png 
+img: ../img/pong_logo.jpg 
 published: true
 ---
 
