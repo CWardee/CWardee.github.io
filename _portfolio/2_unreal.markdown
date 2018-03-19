@@ -8,7 +8,7 @@ published: true
 
 <center><b>pong</b></center><br/>
 
-#### SPACE INVADERS.EXE
+#### PONG
 A simple recreation of pong created using asge
 
 <!--<div class="img_row">
