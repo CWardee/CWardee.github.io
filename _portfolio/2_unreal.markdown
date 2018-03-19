@@ -17,9 +17,8 @@ A simple recreation of pong created using asge
 </div> -->
 
 <div class="owl-carousel owl-theme">
-<a href="{{ site.baseurl }}/img/asge_02.png" target="_blank"><img src="{{ site.baseurl }}/img/asge_02.png" /></a>
-<a href="{{ site.baseurl }}/img/asge_01.png" target="_blank"><img src="{{ site.baseurl }}/img/asge_01.png" /></a>
-<a href="{{ site.baseurl }}/img/asge_02.png" target="_blank"><img src="{{ site.baseurl }}/img/asge_02.png" /></a>
+<a href="{{ site.baseurl }}/img/asge_03.png" target="_blank"><img src="{{ site.baseurl }}/img/asge_03.png" /></a>
+<a href="{{ site.baseurl }}/img/asge_04.png" target="_blank"><img src="{{ site.baseurl }}/img/asge_04.png" /></a>
 </div>
 
 <div class="col three caption">
