@@ -6,7 +6,7 @@ img: ../img/xna-logo1.png
 published: true
 ---
 
-<center><b>space invaders.exe</b> is a simple recreation of space invaders created using asge</center><br/>
+<center><b>space invaders.exe</b></center><br/>
 
 #### SPACE INVADERS.EXE
 space invaders.exe is a simple recreation of space invaders created using asge
@@ -32,4 +32,4 @@ space invaders.exe is a simple recreation of space invaders created using asge
 ----
 [ASGE][asge] download
 
-[asge]: https://github.com
+[asge]: https://github.com/UWEGames-ESD/space-invaders-CWardee

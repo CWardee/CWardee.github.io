@@ -1,16 +1,15 @@
 ---
 layout: post
-title: Plugin
-description: unreal engine plugin
+title: pong
+description:
 img: ../img/unreal_logo.jpg
 published: true
 ---
 
-<center><b>pong</b> is a simple recreation of pong created using asge</center><br/>
+<center><b>pong</b> </center><br/>
 
-#### SPACE INVADERS.EXE
-Developed in response to students needs, a small framework built upon modern C++ was created modelled in the XNA mould. It is designed to afford accessible game development, but restrict the level of hand-holding required. At current, it supports only 2D and does not provide advanced technologies such as networking or controller input. 
-
+#### PONG
+A simple recreation of pong created using asge
 <!--<div class="img_row">
 	<img class="col two" src="{{ site.baseurl }}/img/asge_01.png" alt="" title="example image"/>
 	<img class="col one" src="{{ site.baseurl }}/img/asge_02.png" alt="" title="example image"/>
@@ -32,5 +31,5 @@ Developed in response to students needs, a small framework built upon modern C++
 ----
 [ASGE][asge] download
 
-[asge]: https://github.com
+[asge]: https://github.com/UWEGames-ESD/pong-CWardee
 
