@@ -6,13 +6,31 @@ img: ../img/unreal_logo.jpg
 published: true
 ---
 
-An unreal plugin that I mades...
+<center><b>pong</b> is a simple recreation of pong created using asge</center><br/>
 
-<div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
+#### SPACE INVADERS.EXE
+Developed in response to students needs, a small framework built upon modern C++ was created modelled in the XNA mould. It is designed to afford accessible game development, but restrict the level of hand-holding required. At current, it supports only 2D and does not provide advanced technologies such as networking or controller input. 
+
+<!--<div class="img_row">
+	<img class="col two" src="{{ site.baseurl }}/img/asge_01.png" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/asge_02.png" alt="" title="example image"/>
+</div> -->
+
+<div class="owl-carousel owl-theme">
+<a href="{{ site.baseurl }}/img/asge_02.png" target="_blank"><img src="{{ site.baseurl }}/img/asge_02.png" /></a>
+<a href="{{ site.baseurl }}/img/asge_01.png" target="_blank"><img src="{{ site.baseurl }}/img/asge_01.png" /></a>
+<a href="{{ site.baseurl }}/img/asge_02.png" target="_blank"><img src="{{ site.baseurl }}/img/asge_02.png" /></a>
 </div>
+
 <div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+	Example game start screens running on ASGE. In the top left you can see the FPS counter. 
 </div>
+
+<br/>
+
+#### Links
+----
+[ASGE][asge] download
+
+[asge]: https://github.com
+

@@ -1,14 +1,14 @@
 ---
 layout: project
-title: 2D Game Engine
-description: a simple xna-style game framework for 2D
+title: space invaders
+description: a simple recreation of space invaders created using asge
 img: ../img/xna-logo1.png 
 published: true
 ---
 
-<center><b>ASGE</b> is a minimal game engine in C++ based on XNA ideas.</center><br/>
+<center><b>space invaders.exe</b> is a simple recreation of space invaders created using asge</center><br/>
 
-#### Awesome Sauce Game Engine
+#### SPACE INVADERS.EXE
 Developed in response to students needs, a small framework built upon modern C++ was created modelled in the XNA mould. It is designed to afford accessible game development, but restrict the level of hand-holding required. At current, it supports only 2D and does not provide advanced technologies such as networking or controller input. 
 
 <!--<div class="img_row">
