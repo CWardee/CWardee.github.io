@@ -1,15 +1,16 @@
 ---
-layout: post
-title: pong
-description:
-img: ../img/unreal_logo.jpg
+layout: project
+title: space invaders
+description: space invaders
+img: ../img/xna-logo1.png 
 published: true
 ---
 
-<center><b>pong</b> </center><br/>
+<center><b>pong</b></center><br/>
 
-#### PONG
+#### SPACE INVADERS.EXE
 A simple recreation of pong created using asge
+
 <!--<div class="img_row">
 	<img class="col two" src="{{ site.baseurl }}/img/asge_01.png" alt="" title="example image"/>
 	<img class="col one" src="{{ site.baseurl }}/img/asge_02.png" alt="" title="example image"/>
@@ -32,4 +33,3 @@ A simple recreation of pong created using asge
 [ASGE][asge] download
 
 [asge]: https://github.com/UWEGames-ESD/pong-CWardee
-
