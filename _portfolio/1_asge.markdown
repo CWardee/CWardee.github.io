@@ -2,7 +2,7 @@
 layout: project
 title: space invaders
 description: space invaders
-img: ../img/xna-logo1.png 
+img: ../img/space_invader_logo.png 
 published: true
 ---
 
@@ -12,13 +12,13 @@ published: true
 space invaders.exe is a simple recreation of space invaders created using asge
 
 <!--<div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/asge_01.png" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/asge_02.png" alt="" title="example image"/>
+	<img class="col two" src="{{ site.baseurl }}/img/space_invader1.png" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/space_invader2.png" alt="" title="example image"/>
 </div> -->
 
 <div class="owl-carousel owl-theme">
-<a href="{{ site.baseurl }}/img/asge_02.png" target="_blank"><img src="{{ site.baseurl }}/img/asge_02.png" /></a>
-<a href="{{ site.baseurl }}/img/asge_01.png" target="_blank"><img src="{{ site.baseurl }}/img/asge_01.png" /></a>
+<a href="{{ site.baseurl }}/img/space_invader1.png" target="_blank"><img src="{{ site.baseurl }}/img/space_invader1.png" /></a>
+<a href="{{ site.baseurl }}/img/space_invader2.png" target="_blank"><img src="{{ site.baseurl }}/img/space_invader2.png" /></a>
 </div>
 
 <div class="col three caption">
