@@ -1,7 +1,7 @@
 ---
 layout: project
-title: space invaders
-description: space invaders
+title: pong
+description: pong
 img: ../img/xna-logo1.png 
 published: true
 ---
@@ -22,7 +22,7 @@ A simple recreation of pong created using asge
 </div>
 
 <div class="col three caption">
-	Example game start screens running on ASGE. In the top left you can see the FPS counter. 
+
 </div>
 
 <br/>

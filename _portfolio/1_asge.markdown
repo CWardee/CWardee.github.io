@@ -22,7 +22,7 @@ space invaders.exe is a simple recreation of space invaders created using asge
 </div>
 
 <div class="col three caption">
-	Example game start screens running on ASGE. In the top left you can see the FPS counter. 
+
 </div>
 
 <br/>
