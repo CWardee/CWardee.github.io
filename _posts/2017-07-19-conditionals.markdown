@@ -2,14 +2,14 @@
 layout: post
 title:  space invaders
 date: 2017-07-19 12:00:00
-description: basic space invaders game
+description: does this thing work?
 category: ASGE
-published: true
+published: false
 tags:
  - c++
  - entertainment software development
 ---
-C++ offers several simple and easy ways to loop. Loops can be used to process the same logic a number of times. The most common is the for loop, followed by while and the do-while. These loops are known as conditional because they continue to loop until a specific condition is met. 
+welcome to my basic portfolio website!
 
 #### the for loop ####
 ----

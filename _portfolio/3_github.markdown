@@ -3,6 +3,6 @@ layout: post
 title: Github
 description: my github 
 img: ../img/github-logo-transparent.jpg 
-redirect: https://github.com
+redirect: https://github.com/CWardee
 published: true
 ---
