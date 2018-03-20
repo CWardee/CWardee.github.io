@@ -6,11 +6,9 @@ permalink: /about/
 
 <img class="col one right" src="{{ site.baseurl }}/img/profile_1.jpg">
 
-I’m a young aspiring Environment Artist with an excellent grasp on a range of software including: Unreal, Unity, Source as well as Adobe Photoshop, Flash & Illustrator.
+Career started here.. I've obtained these grades. I make games, sometimes I program. 
 
- 
-
-I have also dabbled in a assortment of programming languages including HTML, CSS & JavaScript.
+So, this might be a good place to list a shorthand CV, or even provide a download to one. Plenty of plugins do this. Some even generate HTML into a PDF preformatted CV. Alternatively, you may want to link to linkedin instead.
 
 <br/>
 <hr/>
@@ -23,6 +21,6 @@ I have also dabbled in a assortment of programming languages including HTML, CSS
 </span>
 
 <div class="col three caption">
-	Reach out to me!
+	You can even add a little note about which of these is the best way to reach you.
 </div>
 
